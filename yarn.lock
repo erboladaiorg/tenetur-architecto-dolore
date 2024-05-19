@@ -25,10 +25,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/esse-praesentium-eligendi@^2.2.13":
-  version "2.2.13"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.13.tgz#8137cf2ce2f398527f5275aec045051fef116bf2"
-  integrity sha512-IdWu9VriAEzqKRCGsVi0dcQsu+G58d83kNyKMkDbkx9CqUxYT91yukBTbbtKMfOJ3LupwbKoSfWy7fXvquiRRw==
+"@dramaorg/esse-praesentium-eligendi@^2.2.14":
+  version "2.2.14"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.14.tgz#139721f7b055bce316baa737b944df3950b80448"
+  integrity sha512-h+tPxknW98hm634lSLIDmM3dvwfSPAfWTW5hbxdLMIcEvbc7ccQ4XxctIctR1BcW5RttdzlGpXkh7FmFLmaseg==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
@@ -551,10 +551,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.15":
-  version "1.0.15"
-  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.15.tgz#f744bf58e603f52d9f78a1b4caa005103bed952c"
-  integrity sha512-WwvjGzAs19dgn547WpUIRmpD0WFNEKogddl41USj/5+14OG5Z7yeKk8CLxhrnwkwyhiQmVrn0NF1QhnVWOdbEQ==
+"@juigorg/sit-nam-neque@^1.0.16":
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.16.tgz#03a061d30b0e7ba58fef11da1b2409487c002d2e"
+  integrity sha512-OJ071zA1B748ICRCuHZOIIqFRLYS9NXuzsnjH/ll9Jx3SUo1Go5QT8zb0TPGsyxUAj3lQL+bQ9yH8Ee7iiLMjA==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
@@ -1316,10 +1316,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@swenkerorg/modi-dolorum-provident@^3.2.11":
-  version "3.2.11"
-  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-3.2.11.tgz#bbc1655ee4130a03c5d4a7a49cc06b652cfafc01"
-  integrity sha512-Dw9t3Dbdx0J81DqEGb7P7lKIButQp4s42GVf0UBwdAPeU25zJpQpiFvuzhW2POlnZrK4VHgoIhfx4di1rNpsVg==
+"@swenkerorg/modi-dolorum-provident@^3.2.12":
+  version "3.2.12"
+  resolved "https://registry.yarnpkg.com/@swenkerorg/modi-dolorum-provident/-/modi-dolorum-provident-3.2.12.tgz#c47ad610841f59c0725482550799065195ff73fc"
+  integrity sha512-trfa/14LmzBbuzUAVsBuRhv70XgZs3TR33DrClAw0hWj6GdkuYkzu+ARPqE3NeW1p5HQUkdRhaCxht7rYpqbOA==
   dependencies:
     "@swenkerorg/potential-waddle" "^1.0.2"
     "@swenkerorg/super-duper" "^1.0.2"
