@@ -25,10 +25,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@dramaorg/esse-praesentium-eligendi@^2.2.16":
-  version "2.2.16"
-  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.2.16.tgz#b9ab2334acebaab454b29525abb10b3bbd6c7aa2"
-  integrity sha512-o5To3EFE6/Om3+Kfyd0NIme7Nn138BnIARix04yzgHxy+6bQvaavjMtEbuYV6UY72x5wqJvDu8fWDeWOX1T+Og==
+"@dramaorg/esse-praesentium-eligendi@^2.3.16":
+  version "2.3.16"
+  resolved "https://registry.yarnpkg.com/@dramaorg/esse-praesentium-eligendi/-/esse-praesentium-eligendi-2.3.16.tgz#aac76dd44456a62a0da26068760ced335227753d"
+  integrity sha512-JCzotFKiE51+KmokTFa4f2hEkKEUVLCGJQEfh3qyzRVT6gkFRjCIItQ6gz1al853Z0/3dO5rhBFUjl8XO9pRfA==
   dependencies:
     "@dramaorg/psychic-couscous" "^1.1.5"
     "@dramaorg/shiny-waddle" "^1.1.4"
@@ -551,10 +551,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@juigorg/sit-nam-neque@^1.0.18":
-  version "1.0.18"
-  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.18.tgz#f1815e3cb682c770112a6c3a0deb489ed5b3199c"
-  integrity sha512-F2XxBlIvqwVe2IK/e4grre7zSCuogASOq/ZW+jjAkKwouhq/8KcjV/6XGcwuTPfUdmMDBj+84qk8k0qMNAzzrA==
+"@juigorg/sit-nam-neque@^1.0.19":
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/@juigorg/sit-nam-neque/-/sit-nam-neque-1.0.19.tgz#ca7781321be38533129fc4688992978b7ef961b6"
+  integrity sha512-w1lkmEo0bQ94MzagmI7BQAIujCquCZFD3MO6ERiOKsbEDED7Kqo70H5dck4DMn7rAYxd4s+qHGxOyPdrtQrqDA==
   dependencies:
     "@juigorg/congenial-barnacle" "^2.2.5"
     "@juigorg/didactic" "^1.1.7"
@@ -805,10 +805,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@kollorg/dicta-itaque-nemo@^1.1.17":
-  version "1.1.17"
-  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.1.17.tgz#e93bf49a19d162908c94f1f6cc179f680981daef"
-  integrity sha512-ELd9ZfsqCbb+ltKKGcSF4WIjT2Zs1OmxMTrWbW8RRgrqCDlvnhgXadVmQb310g/SFOtVhPawoJtkcsdXssIVFQ==
+"@kollorg/dicta-itaque-nemo@^1.1.18":
+  version "1.1.18"
+  resolved "https://registry.yarnpkg.com/@kollorg/dicta-itaque-nemo/-/dicta-itaque-nemo-1.1.18.tgz#63a91ea1186339502461adadb3f76560790548a2"
+  integrity sha512-GysCs0ZvGv/ktsWe1KnhxGCz7gGKZlyGXOLoKla/OB5t7b9MDrsdjDGuKdEUN3H6A4M7A3VIzIzocNZ+Hap4zQ==
   dependencies:
     "@kollorg/aliquid-dolore-necessitatibus" "^1.0.1"
     "@kollorg/architecto-eos-ex" "^1.0.0"
@@ -1376,10 +1376,10 @@
     simple-assi-animation "^1.0.1"
     simple-prompts-web3 "^1.0.1"
 
-"@zitterorg/aspernatur-pariatur-occaecati@^6.3.11":
-  version "6.3.11"
-  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-6.3.11.tgz#74ec9a05377c7562f9228b1e2b929e8a485b0e55"
-  integrity sha512-kSBSSC6XLkxxux+2OHUiOS312zkxwwgplJAWAg91GxAufClYQwEVmzlXG75eh+UHoV+OiuvbKW7T08doJSOWkw==
+"@zitterorg/aspernatur-pariatur-occaecati@^6.3.12":
+  version "6.3.12"
+  resolved "https://registry.yarnpkg.com/@zitterorg/aspernatur-pariatur-occaecati/-/aspernatur-pariatur-occaecati-6.3.12.tgz#ebf6973b42757c9a43a192cbb5b8f41e81f1db92"
+  integrity sha512-wpy/6AUeqRtmgtrfsQdU024dEud5im271TfezxJqZ5I+H3bwkYIkAJD0Y69GYHn0xv/Ue7h5ApcfeddojR1Q2Q==
   dependencies:
     "@zitterorg/fluffy-waddle" "^2.3.4"
     "@zitterorg/glowing-barnacle" "^1.1.3"
